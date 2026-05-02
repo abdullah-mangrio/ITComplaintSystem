@@ -1,0 +1,18 @@
+# Compiled output
+out/
+*.class
+*.jar
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Editor backup files
+*.java~
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
